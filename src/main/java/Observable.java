@@ -1,3 +1,4 @@
 public interface Observable {
-    public void add
+    public void addObserver():
+    public void remove()
 }
